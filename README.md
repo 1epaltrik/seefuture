@@ -42,7 +42,7 @@
 
 &nbsp;
 
-Την παρουσίαση του έργου μας θα τη δείτε <a href="https://www.youtube.com/watch?v=QjeA6qaIxi8">εδώ<\a> (https://www.youtube.com/watch?v=QjeA6qaIxi8)
+Την παρουσίαση του έργου μας θα τη δείτε <a href="https://www.youtube.com/watch?v=QjeA6qaIxi8">εδώ</a> (https://www.youtube.com/watch?v=QjeA6qaIxi8)
 
 &nbsp;
 <p style="text-align: left;"></p>
