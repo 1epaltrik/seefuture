@@ -38,11 +38,11 @@
 
 &nbsp;
 <h3>GitHub</h3>
-Η <a href="https://github.com/1epaltrik/seefuture/blob/main/docs/%CE%88%CF%81%CE%B5%CF%85%CE%BD%CE%B1.odt">έρευνα</a>, ο <a href="https://github.com/1epaltrik/seefuture/blob/main/docs/%CE%A3%CF%87%CE%B5%CE%B4%CE%AF%CE%B1%CF%83%CE%B7.odt">σχεδιασμός</a>, το <a href="https://github.com/1epaltrik/seefuture/blob/main/docs/OER.pdf">OER</a>, το <a href="https://github.com/1epaltrik/seefuture/blob/main/docs/circuit.png">σχέδιο</a> του κυκλώματος, ο <a href="https://github.com/1epaltrik/seefuture/blob/main/code/Arduino/ELLAK2023-SEE%20Future.ino">κώδικας Arduino</a> και και <a href="https://github.com/1epaltrik/seefuture/blob/main/docs/%CE%A3%CF%87%CE%B5%CE%B4%CE%AF%CE%B1%CF%83%CE%B7.odt">AppInventor</a> και τα <a href="https://github.com/1epaltrik/seefuture/tree/main/code/stl">αρχεία stl</a> των αντικειμένων 3D είναι διαθέσιμα στο github στη διεύθυνση <a href="https://github.com/1epaltrik/seefuture" target="_blank" rel="noopener">https://github.com/1epaltrik/seefuture</a>
+Η <a href="https://github.com/1epaltrik/seefuture/blob/main/docs/%CE%88%CF%81%CE%B5%CF%85%CE%BD%CE%B1.odt">έρευνα</a>, ο <a href="https://github.com/1epaltrik/seefuture/blob/main/docs/%CE%A3%CF%87%CE%B5%CE%B4%CE%AF%CE%B1%CF%83%CE%B7.odt">σχεδιασμός</a>, το <a href="https://github.com/1epaltrik/seefuture/blob/main/docs/OER.pdf">OER</a>, το <a href="https://github.com/1epaltrik/seefuture/blob/main/docs/circuit.png">σχέδιο</a> του κυκλώματος, ο <a href="https://github.com/1epaltrik/seefuture/blob/main/code/Arduino/ELLAK2023-SEE%20Future.ino">κώδικας Arduino</a> και <a href="https://github.com/1epaltrik/seefuture/blob/main/docs/%CE%A3%CF%87%CE%B5%CE%B4%CE%AF%CE%B1%CF%83%CE%B7.odt">AppInventor</a> και τα <a href="https://github.com/1epaltrik/seefuture/tree/main/code/stl">αρχεία stl</a> των αντικειμένων 3D είναι διαθέσιμα στο github στη διεύθυνση <a href="https://github.com/1epaltrik/seefuture" target="_blank" rel="noopener">https://github.com/1epaltrik/seefuture</a>
 
 &nbsp;
 
 https://www.youtube.com/watch?v=QjeA6qaIxi8
-
+<iframe width="853" height="480" src="https://www.youtube.com/embed/QjeA6qaIxi8" title="Έξυπνο σύστημα εξοικονόμησης ενέργειας σχολικής αίθουσας" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 &nbsp;
 <p style="text-align: left;"></p>
