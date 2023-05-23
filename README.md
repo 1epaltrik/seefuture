@@ -42,7 +42,7 @@
 
 &nbsp;
 
-https://www.youtube.com/watch?v=QjeA6qaIxi8
-<iframe width="853" height="480" src="https://www.youtube.com/embed/QjeA6qaIxi8" title="Έξυπνο σύστημα εξοικονόμησης ενέργειας σχολικής αίθουσας" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Την παρουσίαση του έργου μας θα τη δείτε <a href="https://www.youtube.com/watch?v=QjeA6qaIxi8">εδώ<\a> (https://www.youtube.com/watch?v=QjeA6qaIxi8)
+
 &nbsp;
 <p style="text-align: left;"></p>
